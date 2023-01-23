@@ -481,6 +481,7 @@ img {
 .skills__list {
   row-gap: 1.5rem;
   padding-left: 2.7rem;
+  margin-bottom: 2rem;
 }
 
 .skills__titles {
@@ -518,11 +519,11 @@ img {
 }
 
 .skills__js {
-  width: 30%;
+  width: 20%;
 }
 
 .skills__react {
-  width: 50%;
+  width: 40%;
 }
 
 .skills__php {
@@ -623,7 +624,7 @@ img {
 .qualification__active[data-content] {
   display: block;
 }
-/*ta errado isso aqui nao consegui arrumar ainda ,....... resolver quando puder */
+
 .qualification__button.qualification__active {
   color: var(--first-color);
 }
